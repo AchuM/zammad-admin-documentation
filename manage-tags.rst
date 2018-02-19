@@ -7,7 +7,7 @@ How to tag
 --------------
 All agents can tag tickets. Therefore you will find further information here:
 
-`<http://zammad-user-documentation.readthedocs.io/de/latest/zammad-ticket-tags.html`_
+ `<http://zammad-user-documentation.readthedocs.io/de/latest/zammad-ticket-tags.html>`_
 
 
 Tag-Overviews
